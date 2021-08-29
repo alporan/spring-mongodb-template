@@ -1,4 +1,4 @@
-package com.orana.springmongodbtemplate.controller;
+package com.orana.springmongodbtemplate.controller.v1;
 
 import java.util.List;
 
